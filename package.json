@@ -1,0 +1,22 @@
+{
+  "name": "js-hm-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "server": "npx json-server students.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SavchenkoAmalia/js-hm-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SavchenkoAmalia/js-hm-crud/issues"
+  },
+  "homepage": "https://github.com/SavchenkoAmalia/js-hm-crud#readme"
+}
